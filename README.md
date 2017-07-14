@@ -20,3 +20,5 @@ Execute no Visual Studio 2015 e terá a resposta dos caminhos mínimos com pesos
     ![Grafo adptado Comern](https://raw.githubusercontent.com/dedeco/dijkstra-bellman-ford/master/grafos-imagens/teste_cormen_bford.png)
 
 * E ainda tem um outro grafo que retorna um ciclo negativo.
+
+Eu desenvolvi o mesmo algoritmo em python. Veja aqui> https://github.com/dedeco/dijkstra-bellman-ford
