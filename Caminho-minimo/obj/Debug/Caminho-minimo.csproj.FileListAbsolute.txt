@@ -1,0 +1,12 @@
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.csprojResolveAssemblyReference.cache
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.csprojResolveAssemblyReference.cache
